@@ -9,3 +9,7 @@ A simple python macro that utilizes computer vision (specifically template match
 3. Run the script (located in the `scripts` directory):
    1. On Windows execute `run.bat`.
    2. On Linux execute `run.sh`.
+
+
+https://github.com/user-attachments/assets/a71ffca0-ee31-4158-b39d-9552fabb7d1c
+
