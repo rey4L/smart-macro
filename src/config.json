@@ -1,10 +1,10 @@
 {
     "sensitivity": 0.8,
     "templates": [
-        "../resources/circle.png",
-        "../resources/square.png",
-        "../resources/rhombus.png",
-        "../resources/star.png",
-        "../resources/diamond.png"
+        "../templates/circle.png",
+        "../templates/square.png",
+        "../templates/rhombus.png",
+        "../templates/star.png",
+        "../templates/diamond.png"
     ]
 }
